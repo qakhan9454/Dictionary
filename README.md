@@ -1,1 +1,2 @@
 # Dictionary
+In this problem, my approach is taking two strings Vowel and Consonant, and then we iterate over it depending upon the size of string giving in input, to form words, thereafter words are then swaped and checked in the dictionary, if found the counter is incremented, and is then returned in the end as result.
